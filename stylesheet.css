@@ -192,7 +192,7 @@ h4 {
 .text-block {
   width: 50%;
   max-width: 400px;
-  text-align: right;
+  text-align: left;
 }
 
 .text-block p {
