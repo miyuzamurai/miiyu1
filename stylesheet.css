@@ -192,7 +192,6 @@ h4 {
 .text-block {
   width: 50%;
   max-width: 400px;
-  text-align: left;
 }
 
 .text-block p {
@@ -200,6 +199,23 @@ h4 {
   line-height: 1.6;
   margin-top: 30px;
 }
+
+.p okinawa{
+   text-align:left;
+}
+
+.p taiwan{
+   text-align:center;
+}
+
+.p korea{
+ tenxt-align:center;
+}
+
+.p vietnam{
+   text-align:right;
+}
+   
 
 /* =============================
    セクション背景色ごとの設定
